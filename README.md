@@ -13,8 +13,8 @@
 
 1. **Clone o Repositório**
    ```bash
-  git clone https://github.com/DaviLuizCL/oncinha.git
-  cd oncinha
+   git clone https://github.com/DaviLuizCL/oncinha.git
+   cd oncinha
    ```
 
    
