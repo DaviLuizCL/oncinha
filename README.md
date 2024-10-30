@@ -39,3 +39,22 @@
     ```
 
 ---
+
+### Para rodar SEM o make, (windows user be like)
+
+
+1. **Buildar a aplicação**
+  ```bash
+        docker-compose build
+  ```
+---
+
+2. **Rodar a aplicação**
+ ```bash
+        docker-compose up
+ ```
+---
+3. **Rezar para dar certo**
+ ```bash
+        ave Maria (5 séries de 10)
+  ```
