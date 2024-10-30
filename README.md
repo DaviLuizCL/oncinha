@@ -45,16 +45,16 @@
 
 1. **Buildar a aplicação**
   ```bash
-        docker-compose build
+  docker-compose build
   ```
 ---
 
 2. **Rodar a aplicação**
  ```bash
-        docker-compose up
+docker-compose up
  ```
 ---
 3. **Rezar para dar certo**
  ```bash
-        ave Maria (5 séries de 10)
+ave Maria (5 séries de 10)
   ```
