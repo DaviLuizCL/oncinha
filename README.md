@@ -15,16 +15,16 @@
    ```bash
    git clone https://github.com/DaviLuizCL/oncinha.git
    cd oncinha
-
+---
 2. **Criação do Ambiente de desenvolvimento python**
   ```bash
       python -m venv .venv
       source .venv/bin/activate
-
+---
 3. **Instalando dependências DENTRO DO AMBIENTE VIRTUAL**
   ```bash
       pip install -r requirements.txt
-
+---
 ### Nesse momento, temos tudo que precisamos para tocar o projeto com MAKE
 
 1. **Instalando dependências DENTRO DO AMBIENTE VIRTUAL**
