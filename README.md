@@ -18,8 +18,8 @@
 ---
 2. **Criação do Ambiente de desenvolvimento python**
   ```bash
-      python -m venv .venv
-      source .venv/bin/activate
+    python -m venv .venv
+    source .venv/bin/activate
 ---
 3. **Instalando dependências DENTRO DO AMBIENTE VIRTUAL**
   ```bash
