@@ -27,7 +27,7 @@
 ---
 ### Nesse momento, temos tudo que precisamos para tocar o projeto com MAKE
 
-1. **Instalando dependências DENTRO DO AMBIENTE VIRTUAL**
+4. **Instalando dependências DENTRO DO AMBIENTE VIRTUAL**
     ```bash
         make compose
 
