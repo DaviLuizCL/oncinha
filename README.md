@@ -23,7 +23,7 @@
 2. **Criação do Ambiente de desenvolvimento python**
   ```bash
   python -m venv .venv
-  source .venv/bin/activate
+  source .venv/bin/activate (ou .venv\Scripts\Activate se você utiliza Ruindows)
 ```
 ---
 3. **Instalando dependências DENTRO DO AMBIENTE VIRTUAL**
